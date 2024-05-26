@@ -1,0 +1,101 @@
+Sr. No.,Code,Tenure,Status,Gender,Edu Bucket,Outstation/Local,Versant Bucket,Language Queue,Experience (Months)
+82963178,1,264,Attrited,M,Non Science Graduates,Outstation,50-60,Tamil,3
+82963476,0,134,-,F,Non Science Graduates,Outstation,50-60,Telegu,15
+82963496,0,192,-,M,Science Graduates,Local,60-70,Malayalam,5
+82963552,1,34,Attrited,M,Others,Local,60-70,Hindi,14
+82963672,1,250,Attrited,M,Others,Local,50-60,English,18
+82963824,0,27,-,F,Others,Local,50-60,English,1
+82963946,0,290,-,F,Non Science Graduates,Outstation,50-60,Hindi,13
+82964078,0,288,Attrited,M,Non Science Graduates,Local,50-60,Tamil,5
+82964124,0,66,-,M,Science Graduates,Outstation,60-70,Telegu,10
+82964266,0,33,-,M,Non Science Graduates,Outstation,40-50,Malayalam,4
+82964446,1,212,Attrited,F,Science Graduates,Local,40-50,Malayalam,25
+82964492,0,298,Attrited,F,Non Science Graduates,Local,60-70,Hindi,18
+82964686,1,108,Attrited,F,Non Science Graduates,Local,60-70,Hindi,25
+82964688,0,271,Attrited,F,Others,Outstation,50-60,Hindi,14
+82965178,0,169,-,M,Science Graduates,Local,70-80,English,5
+82965186,0,22,-,M,Science Graduates,Local,40-50,Telegu,12
+82965394,0,225,-,F,Non Science Graduates,Local,40-50,Telegu,22
+82965426,1,254,Attrited,M,Non Science Graduates,Outstation,40-50,Tamil,25
+82965436,0,56,-,M,Science Graduates,Local,60-70,Tamil,14
+82965584,0,187,-,M,Non Science Graduates,Outstation,50-60,Telegu,25
+82965674,1,69,Attrited,F,Non Science Graduates,Local,40-50,English,22
+82965728,1,15,Attrited,F,Non Science Graduates,Outstation,70-80,Malayalam,2
+82965792,0,169,-,M,Science Graduates,Local,60-70,Tamil,21
+82965822,0,73,-,F,Non Science Graduates,Local,50-60,Malayalam,3
+82965918,0,150,-,F,Science Graduates,Local,70-80,Tamil,12
+82966000,0,212,-,F,Science Graduates,Outstation,50-60,Telegu,9
+82966334,0,46,-,F,Science Graduates,Outstation,70-80,Tamil,5
+82966346,1,39,Attrited,F,Science Graduates,Local,40-50,English,7
+82966978,0,151,-,M,Non Science Graduates,Outstation,70-80,Kannada,8
+82967174,0,108,-,M,Non Science Graduates,Local,70-80,English,18
+82967176,0,259,-,F,Non Science Graduates,Local,60-70,Malayalam,22
+82967248,0,120,-,M,Non Science Graduates,Outstation,50-60,Tamil,9
+82967488,1,207,Attrited,M,Non Science Graduates,Outstation,70-80,Tamil,21
+82967528,1,151,Attrited,F,Non Science Graduates,Local,60-70,Telegu,24
+82967536,1,106,Attrited,F,Non Science Graduates,Outstation,40-50,Telegu,5
+82967586,0,288,Attrited,M,Others,Local,70-80,Tamil,21
+82967598,1,143,Attrited,F,Others,Local,40-50,Kannada,11
+82967602,1,238,Attrited,F,Non Science Graduates,Outstation,40-50,Tamil,10
+82967724,1,74,Attrited,F,Science Graduates,Local,60-70,Telegu,8
+82968388,0,43,-,M,Non Science Graduates,Outstation,50-60,English,16
+82968568,0,126,-,M,Non Science Graduates,Local,50-60,Hindi,5
+82969260,0,164,-,M,Non Science Graduates,Outstation,40-50,Malayalam,24
+82969388,0,64,-,M,Non Science Graduates,Local,70-80,Malayalam,7
+82969898,0,188,-,M,Science Graduates,Outstation,40-50,Tamil,1
+82969970,0,191,-,F,Non Science Graduates,Local,50-60,Tamil,18
+82970452,1,124,Attrited,M,Non Science Graduates,Local,60-70,English,11
+82971112,0,149,-,M,Others,Outstation,70-80,English,18
+82971186,0,255,-,F,Others,Local,40-50,Hindi,6
+82971684,0,63,-,F,Others,Outstation,50-60,Kannada,18
+82972038,0,57,-,M,Others,Outstation,60-70,Hindi,24
+82972230,0,91,-,F,Non Science Graduates,Outstation,60-70,English,24
+82972584,0,245,-,M,Non Science Graduates,Outstation,50-60,Tamil,16
+82972778,0,258,-,F,Science Graduates,Outstation,50-60,Tamil,18
+82973534,0,144,-,F,Science Graduates,Outstation,50-60,English,21
+82974042,0,246,-,M,Science Graduates,Local,60-70,English,19
+82974384,0,258,-,F,Non Science Graduates,Outstation,50-60,Hindi,15
+82974828,0,262,-,M,Non Science Graduates,Local,60-70,Tamil,19
+82975188,1,248,Attrited,F,Others,Local,70-80,Telegu,22
+82975660,1,126,Attrited,F,Non Science Graduates,Local,60-70,Telegu,1
+82975660,0,176,-,F,Non Science Graduates,Local,40-50,Tamil,3
+82975990,0,232,-,F,Non Science Graduates,Outstation,50-60,Tamil,15
+82975990,0,21,-,M,Non Science Graduates,Local,40-50,Telegu,20
+82975996,1,27,Attrited,F,Non Science Graduates,Outstation,40-50,Tamil,25
+82977186,1,205,Attrited,F,Science Graduates,Local,70-80,Malayalam,8
+82977642,1,107,Attrited,M,Science Graduates,Outstation,50-60,Telegu,9
+82977642,0,173,-,M,Science Graduates,Outstation,40-50,Tamil,9
+82977890,0,70,-,F,Science Graduates,Outstation,40-50,Telegu,7
+82977890,0,258,-,M,Others,Local,40-50,Tamil,11
+82977994,0,167,-,M,Science Graduates,Local,50-60,Malayalam,0
+82977994,0,107,-,F,Science Graduates,Outstation,70-80,English,1
+82978122,0,119,-,F,Science Graduates,Outstation,50-60,Hindi,24
+82978122,0,286,-,M,Science Graduates,Outstation,60-70,Kannada,12
+82978168,0,231,-,F,Non Science Graduates,Outstation,60-70,Telegu,2
+82978168,0,138,-,M,Others,Outstation,60-70,Tamil,0
+82978348,0,42,-,F,Science Graduates,Local,50-60,Telegu,19
+82979036,1,94,Attrited,F,Others,Outstation,50-60,Tamil,10
+82979188,0,263,-,F,Science Graduates,Outstation,40-50,Malayalam,5
+82979266,1,133,Attrited,F,Science Graduates,Local,40-50,Hindi,10
+82979324,0,289,-,F,Non Science Graduates,Local,60-70,Tamil,13
+82979630,0,41,-,F,Non Science Graduates,Outstation,50-60,Tamil,16
+82980138,0,280,-,M,Non Science Graduates,Local,50-60,Tamil,1
+82980204,0,54,-,F,Non Science Graduates,Local,40-50,Kannada,12
+82980570,0,54,-,F,Others,Outstation,40-50,Kannada,4
+82980570,0,181,-,M,Non Science Graduates,Outstation,40-50,Tamil,24
+82980628,1,45,Attrited,M,Science Graduates,Outstation,40-50,Kannada,13
+82980660,1,82,Attrited,M,Others,Local,50-60,Kannada,23
+82980716,1,36,Attrited,F,Others,Outstation,50-60,Telegu,7
+82980720,1,225,Attrited,M,Others,Outstation,40-50,Kannada,2
+82980800,1,183,Attrited,F,Others,Local,50-60,Telegu,21
+82981174,1,228,Attrited,M,Non Science Graduates,Local,50-60,Kannada,14
+82981234,1,89,Attrited,F,Science Graduates,Outstation,40-50,English,20
+82981696,1,225,Attrited,M,Non Science Graduates,Local,40-50,Kannada,17
+82981706,0,270,Attrited,M,Non Science Graduates,Outstation,50-60,Tamil,2
+82981796,1,24,Attrited,F,Non Science Graduates,Local,70-80,Telegu,24
+82981866,1,147,Attrited,F,Non Science Graduates,Local,40-50,Kannada,16
+82981978,1,131,Attrited,F,Non Science Graduates,Outstation,60-70,Tamil,16
+82982296,1,235,Attrited,M,Non Science Graduates,Local,40-50,Kannada,6
+82982396,1,167,Attrited,M,Non Science Graduates,Outstation,50-60,Tamil,14
+82982684,1,219,Attrited,F,Science Graduates,Local,40-50,Hindi,2
+82982685,1,210,Attrited,M,Science Graduates,Local,50-60,Kannada,19
